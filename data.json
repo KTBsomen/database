@@ -1,0 +1,2187 @@
+{
+   "results":[
+      {
+         "hits":[
+            {
+               "place_type":[
+                  "Savonnerie, cosmétiques, chandelles, produits pour le corps",
+                  "Produits pour la maison",
+                  "Matériel d'artistes"
+               ],
+               "productCategories":[
+                  588,
+                  592,
+                  596
+               ],
+               "category":"Autres",
+               "name":"La Chandellerie",
+               "description":"Vente de chandelles de soya et de produits connexes",
+               "type":"Ecommerce seulement",
+               "website":"https://chandellerie.ca/",
+               "hqCity":"Victoriaville",
+               "slug":"/commerce/la-chandellerie",
+               "isOpen":1,
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/la-chandellerie.jpg",
+               "updated_at":1643902365,
+               "orgName":"La Chandellerie",
+               "objectID":"61ddf5f52b665c000a1f6c2e",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Savonnerie, cosmétiques, chandelles, produits pour le corps",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Produits pour la maison",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Matériel d'artistes",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"La Chandellerie",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Vente de chandelles de soya et de produits connexes",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Ecommerce seulement",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"La Chandellerie",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.5467847,
+                  "lng":-73.5435373
+               },
+               "heyday":{
+                  "snippet_url":"https://api.heyday.ai/v130/4750227241/4642058912/fr/setupchat.js"
+               },
+               "place_type":[
+                  "Bijouterie",
+                  "Décoration",
+                  "Papeterie",
+                  "Produits de beauté",
+                  "Produits pour la maison",
+                  "Boutique de cadeaux"
+               ],
+               "productCategories":[
+                  2559,
+                  956,
+                  588,
+                  567,
+                  673,
+                  696,
+                  95,
+                  597,
+                  188,
+                  1604,
+                  6551,
+                  961,
+                  6049,
+                  668,
+                  721,
+                  602,
+                  479,
+                  502988,
+                  886,
+                  178,
+                  5876,
+                  6936,
+                  4358
+               ],
+               "category":"Autres",
+               "name":"Bouche Bée",
+               "description":"Boutique de décoration intérieure, fièrement installée dans Hochelaga à Montréal depuis 2018. \nLa sélection est issue de la création locale et de l'importation pour une offre variée. \nProduits de maison, cuisine, décoration, papeterie, bougies, soins etc",
+               "type":"Physique et ecommerce",
+               "locality":"Montréal",
+               "website":"https://www.bouche-bee.ca/",
+               "region":"Montréal",
+               "slug":"/commerce/bouche-bee",
+               "catalogs":[
+                  {
+                     "_bsontype":"ObjectID",
+                     "id":{
+                        "0":95,
+                        "1":155,
+                        "2":159,
+                        "3":192,
+                        "4":38,
+                        "5":108,
+                        "6":234,
+                        "7":21,
+                        "8":152,
+                        "9":226,
+                        "10":41,
+                        "11":131
+                     }
+                  }
+               ],
+               "isOpen":1,
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/bouche-bee.jpg",
+               "updated_at":1643845173,
+               "orgName":"Bouche Bée",
+               "objectID":"iw0064186",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Bijouterie",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Décoration",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Papeterie",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Produits de beauté",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Produits pour la maison",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Boutique de cadeaux",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Bouche Bée",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Boutique de décoration intérieure, fièrement installée dans Hochelaga à Montréal depuis 2018. \nLa sélection est issue de la création locale et de l'importation pour une offre variée. \nProduits de maison, cuisine, décoration, papeterie, bougies, soins etc",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Bouche Bée",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.2921173,
+                  "lng":-72.9658065
+               },
+               "place_type":[
+                  "Boulangerie et pâtisserie",
+                  "Fruiterie",
+                  "Repas à emporter"
+               ],
+               "productCategories":[
+                  6566,
+                  6665,
+                  6674,
+                  2188,
+                  1895,
+                  5749
+               ],
+               "category":"Alimentation spécialisée",
+               "name":"Verger Kessler",
+               "description":"Producteur de Pommes principalement que nous avons en boutique jusqu'en juin mais nous avons aussi des poires et des prunes en saison.  Nous confectionnons quelques pâtisseries comme des tartes, croustades, muffins et biscuits et que dire de nos chaussons aux pommes.  Pour une offre plus complète nous avons des mets préparés comme notre fameux pâté au poulet et l'unique pâté mexicain, tourtières, potages et soupes, fèves au lards, quiches et plus encore.  Nos tablettes sont garnies confitures et gelées.  Et tout ceci fait maison et sur place!!!  On vous attend!!!",
+               "type":"Physique",
+               "locality":"Farnham",
+               "website":"https://vergerkessler.com",
+               "region":"Montérégie",
+               "slug":"/commerce/verger-kessler",
+               "products":[
+                  6566,
+                  6665,
+                  6674,
+                  2188,
+                  1895,
+                  5749
+               ],
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/verger-kessler.jpg",
+               "updated_at":1643825013,
+               "orgName":"Verger Kessler",
+               "objectID":"iw0030931",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Boulangerie et pâtisserie",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Fruiterie",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Repas à emporter",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Verger Kessler",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Producteur de Pommes principalement que nous avons en boutique jusqu'en juin mais nous avons aussi des poires et des prunes en saison.  Nous confectionnons quelques pâtisseries comme des tartes, croustades, muffins et biscuits et que dire de nos chaussons aux pommes.  Pour une offre plus complète nous avons des mets préparés comme notre fameux pâté au poulet et l'unique pâté mexicain, tourtières, potages et soupes, fèves au lards, quiches et plus encore.  Nos tablettes sont garnies confitures et gelées.  Et tout ceci fait maison et sur place!!!  On vous attend!!!",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Farnham",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montérégie",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Verger Kessler",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.638707,
+                  "lng":-73.8403069
+               },
+               "place_type":[
+                  "Décoration",
+                  "Produits pour la maison",
+                  "Éclairage",
+                  "Boutique de cadeau"
+               ],
+               "productCategories":[
+                  4454,
+                  594,
+                  673,
+                  602,
+                  6049,
+                  569,
+                  95,
+                  503723,
+                  2675,
+                  1985,
+                  188,
+                  6936,
+                  985,
+                  3809,
+                  696,
+                  436,
+                  469,
+                  4608,
+                  4748
+               ],
+               "category":"Autres",
+               "name":"kaméléon atelier MRKT",
+               "description":"Boutique de décoration et art de vivre : petit mobilier, luminaires, art de la table, accessoires de décoration, cadeaux",
+               "type":"Physique et ecommerce",
+               "website":"http://www.kameleonateliermrkt.com",
+               "region":"Laurentides",
+               "locality":"Sainte-Thérèse",
+               "slug":"/commerce/kameleon-atelier-mrkt",
+               "isOpen":1,
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/kameleon-atelier-mrkt.jpg",
+               "updated_at":1643820788,
+               "orgName":"kaméléon atelier MRKT",
+               "objectID":"5f9340da6a3d09000a41a97e",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Décoration",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Produits pour la maison",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Éclairage",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Boutique de cadeau",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"kaméléon atelier MRKT",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Boutique de décoration et art de vivre : petit mobilier, luminaires, art de la table, accessoires de décoration, cadeaux",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Laurentides",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Sainte-Thérèse",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"kaméléon atelier MRKT",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":46.4111251,
+                  "lng":-74.8700664
+               },
+               "place_type":[
+                  "Autres"
+               ],
+               "productCategories":[
+                  436,
+                  696,
+                  138,
+                  2559,
+                  216,
+                  6404,
+                  500044,
+                  2248,
+                  2377
+               ],
+               "category":"Arts et culture",
+               "name":"La Caverne D'alibaba S.E.N.C",
+               "description":"Nous sommes une Brocante et Friperie\nNous vendons de la décoration Vintage du Man Cave, Rétro et des Antiquités.\nNous fabriquons et créons des meubles uniques en bois et Nous Transformons des meubles. On Relooke et nous donnons une seconde vie aux objets.",
+               "type":"Physique",
+               "region":"Laurentides",
+               "hqCity":"Rivière-Rouge",
+               "locality":"Rivière-Rouge",
+               "slug":"/commerce/la-caverne-dalibaba-senc",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/la-caverne-dalibaba-senc.jpg",
+               "updated_at":1643770811,
+               "orgName":"La Caverne D'alibaba S.E.N.C",
+               "objectID":"61f895ac6e123d000ac53472",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Autres",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"La Caverne D'alibaba S.E.N.C",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Nous sommes une Brocante et Friperie\nNous vendons de la décoration Vintage du Man Cave, Rétro et des Antiquités.\nNous fabriquons et créons des meubles uniques en bois et Nous Transformons des meubles. On Relooke et nous donnons une seconde vie aux objets.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Laurentides",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Rivière-Rouge",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"La Caverne D'alibaba S.E.N.C",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.5319318,
+                  "lng":-73.7449783
+               },
+               "place_type":[
+                  "Décoration",
+                  "Produits pour la maison",
+                  "Articles de cuisine"
+               ],
+               "productCategories":[
+                  576,
+                  4126,
+                  505832,
+                  4143,
+                  569,
+                  94,
+                  479,
+                  6743,
+                  4203,
+                  4454,
+                  4077,
+                  696,
+                  601
+               ],
+               "category":"Autres",
+               "name":"Magasinez Bleu",
+               "description":"Magasinez Bleu est une boutique en ligne de linge de maison fabriqué\\xa0dans les\\xa0pays méditerranéens\\xa0pour\\xa0les\\xa0passionnés de ses produits, tout en soutenant le secteur manufacturier et les artisans des marchés développés et émergents de la région.",
+               "type":"Ecommerce seulement",
+               "locality":"Laval",
+               "website":"https://www.magasinezbleu.ca",
+               "slug":"/commerce/magasinez-bleu",
+               "products":[
+                  576,
+                  4126,
+                  505832,
+                  580,
+                  4143,
+                  569,
+                  94,
+                  2302,
+                  479,
+                  6743,
+                  4203,
+                  4454
+               ],
+               "catalogs":[
+                  {
+                     "_bsontype":"ObjectID",
+                     "id":{
+                        "0":95,
+                        "1":155,
+                        "2":20,
+                        "3":42,
+                        "4":60,
+                        "5":126,
+                        "6":234,
+                        "7":7,
+                        "8":97,
+                        "9":93,
+                        "10":244,
+                        "11":9
+                     }
+                  }
+               ],
+               "hqCity":"Laval",
+               "isOpen":1,
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/magasinez-bleu.jpg",
+               "updated_at":1643767646,
+               "orgName":"Magasinez Bleu",
+               "objectID":"iw0038631",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Décoration",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Produits pour la maison",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Articles de cuisine",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Magasinez Bleu",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Magasinez Bleu est une boutique en ligne de linge de maison fabriqué\\xa0dans les\\xa0pays méditerranéens\\xa0pour\\xa0les\\xa0passionnés de ses produits, tout en soutenant le secteur manufacturier et les artisans des marchés développés et émergents de la région.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Ecommerce seulement",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Laval",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Magasinez Bleu",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.5395122,
+                  "lng":-73.6342324
+               },
+               "place_type":[
+                  "Autres",
+                  "Galerie d'art",
+                  "Décoration",
+                  "Boutique de cadeaux",
+                  "Magasin",
+                  "Produits pour la maison"
+               ],
+               "productCategories":[
+                  499879,
+                  9,
+                  8,
+                  3553,
+                  7568,
+                  5537,
+                  3330,
+                  652,
+                  4009,
+                  3692,
+                  6526,
+                  6457,
+                  6740,
+                  6049,
+                  3498,
+                  6518,
+                  721,
+                  500033,
+                  6086,
+                  5607,
+                  7097,
+                  44
+               ],
+               "category":"Arts et culture",
+               "name":"POTERIE.QUEBEC",
+               "description":"Produits, services, cours de poterie et céramiques contemporaines se retrouvent dans cet atelier-boutique de la céramiste Chantal Parisien.",
+               "type":"Physique et ecommerce",
+               "locality":"Montréal",
+               "website":"https://www.chantalparisien.com",
+               "region":"Montréal",
+               "slug":"/commerce/poterie-quebec-2",
+               "products":[
+                  499879,
+                  9,
+                  8,
+                  3553,
+                  7568,
+                  5537,
+                  3330,
+                  652,
+                  4009,
+                  3692,
+                  6526,
+                  6457,
+                  6740,
+                  6049,
+                  3498,
+                  6518,
+                  721,
+                  500033,
+                  6086,
+                  5607,
+                  7097,
+                  44
+               ],
+               "isOpen":1,
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/poterie-quebec-2.jpg",
+               "updated_at":1643765932,
+               "orgName":"POTERIE.QUEBEC",
+               "objectID":"iw0075591",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Autres",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Galerie d'art",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Décoration",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Boutique de cadeaux",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Magasin",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Produits pour la maison",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"POTERIE.QUEBEC",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Produits, services, cours de poterie et céramiques contemporaines se retrouvent dans cet atelier-boutique de la céramiste Chantal Parisien.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"POTERIE.QUEBEC",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.5403042,
+                  "lng":-73.599499
+               },
+               "place_type":[
+                  "Boutique de cadeau",
+                  "Décoration",
+                  "Galerie d'art",
+                  "Autres"
+               ],
+               "productCategories":[
+                  9,
+                  53,
+                  7198,
+                  5452,
+                  95,
+                  500044,
+                  2503,
+                  469,
+                  499879,
+                  182,
+                  173,
+                  175,
+                  669,
+                  189,
+                  108,
+                  588,
+                  935,
+                  1244,
+                  1253,
+                  138,
+                  1258,
+                  1257,
+                  1604,
+                  194,
+                  1259,
+                  188,
+                  474,
+                  601,
+                  696,
+                  8,
+                  191,
+                  553,
+                  567,
+                  196,
+                  537,
+                  485,
+                  2125
+               ],
+               "category":"Arts et culture",
+               "name":"Boutique Identi-T",
+               "type":"Physique et ecommerce",
+               "description":"Boutique cadeaux de produits fabriqués par les artisans du Québec.",
+               "website":"https://www.boutiqueidenti-t.ca",
+               "slug":"/commerce/boutique-identi-t",
+               "locality":"Montréal",
+               "region":"Montréal",
+               "products":[
+                  9,
+                  53,
+                  7198,
+                  5452,
+                  95,
+                  500044,
+                  2503,
+                  469,
+                  499879,
+                  182,
+                  173,
+                  175,
+                  669,
+                  189,
+                  108,
+                  588,
+                  935,
+                  1244,
+                  1253,
+                  138,
+                  1258,
+                  1257,
+                  1604,
+                  194,
+                  1259,
+                  188,
+                  474,
+                  601,
+                  696,
+                  8,
+                  191,
+                  553,
+                  567,
+                  196,
+                  537,
+                  485,
+                  2125
+               ],
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/boutique-identi-t.jpg",
+               "updated_at":1643752664,
+               "orgName":"Boutique Identi-T",
+               "objectID":"5ec086221145530007b1a6de",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Boutique de cadeau",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Décoration",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Galerie d'art",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Autres",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Boutique Identi-T",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Boutique cadeaux de produits fabriqués par les artisans du Québec.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Boutique Identi-T",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.692926,
+                  "lng":-73.633144
+               },
+               "place_type":[
+                  "Boutique de cadeau",
+                  "Produits de beauté",
+                  "Savonnerie, cosmétiques, chandelles, produits pour le corps",
+                  "Beauté"
+               ],
+               "productCategories":[
+                  469,
+                  478,
+                  493,
+                  515,
+                  2958,
+                  567,
+                  7429,
+                  2526,
+                  5663,
+                  4507,
+                  7199,
+                  53,
+                  166,
+                  473,
+                  477,
+                  481,
+                  588,
+                  2559,
+                  2571,
+                  2592,
+                  2740,
+                  2807,
+                  2844,
+                  2982,
+                  3021
+               ],
+               "category":"Santé et beauté",
+               "name":"Spa Santé Le Nénuphar",
+               "description":"Le Spa santé le  Nénuphar devient un endroit magique dès votre arrivée, vous sentirez le calme et la chaleur enveloppante des lieux. Notre désir le plus important est de vous amener à éliminer tout le stress et les douleurs qui interfèrent à votre mieux-être.\n\nNos esthéticiennes sauront vous satisfaire avec les soins du visage spécifiques adaptés à vos besoins, épilations au laser, photorajeunissement, les manucures et pédicures.\n\nNos thérapeutes sont spécialisés dans la massothérapie, les différents types de massages et de modelage pour éventuellement diminuer vos maux de dos.\n\nTel un nénuphar, laissez-vous porter par une vague de douceur où vous pourrez apprivoiser votre océan intérieur.\n\n\nForfaits et cartes cadeaux en vente en ligne.",
+               "type":"Physique et ecommerce",
+               "website":"http://www.spasantelenenuphar.com/",
+               "region":"Lanaudière",
+               "hqCity":"Terrebonne",
+               "locality":"Terrebonne",
+               "slug":"/commerce/spa-sante-le-nenuphar",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/spa-sante-le-nenuphar.jpg",
+               "updated_at":1643746460,
+               "orgName":"Spa Santé Le Nénuphar",
+               "objectID":"60ad186d25e078000baf4615",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Boutique de cadeau",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Produits de beauté",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Savonnerie, cosmétiques, chandelles, produits pour le corps",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Beauté",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Spa Santé Le Nénuphar",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Le Spa santé le  Nénuphar devient un endroit magique dès votre arrivée, vous sentirez le calme et la chaleur enveloppante des lieux. Notre désir le plus important est de vous amener à éliminer tout le stress et les douleurs qui interfèrent à votre mieux-être.\n\nNos esthéticiennes sauront vous satisfaire avec les soins du visage spécifiques adaptés à vos besoins, épilations au laser, photorajeunissement, les manucures et pédicures.\n\nNos thérapeutes sont spécialisés dans la massothérapie, les différents types de massages et de modelage pour éventuellement diminuer vos maux de dos.\n\nTel un nénuphar, laissez-vous porter par une vague de douceur où vous pourrez apprivoiser votre océan intérieur.\n\n\nForfaits et cartes cadeaux en vente en ligne.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Lanaudière",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Terrebonne",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Spa Santé Le Nénuphar",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":46.78566499999999,
+                  "lng":-71.351596
+               },
+               "place_type":[
+                  "Restaurant"
+               ],
+               "category":"Restauration",
+               "name":"Rôtisserie Scores (Sainte-Foy)",
+               "description":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+               "type":"Physique et ecommerce",
+               "website":"https://www.scores.ca/rotisserie-scores-sainte-foy",
+               "slug":"/commerce/rotisserie-scores-sainte-foy",
+               "locality":"Québec",
+               "region":"Capitale-Nationale",
+               "restaurant_status":"Ouvert",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/rotisserie-scores-sainte-foy.jpg",
+               "updated_at":1643744384,
+               "orgName":"Rotisserie Scores Poulet et Cote levees",
+               "objectID":"5f08871e002b6300074a141c",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Restaurant",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Rôtisserie Scores (Sainte-Foy)",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Québec",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Capitale-Nationale",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Rotisserie Scores Poulet et Cote levees",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":46.0478766,
+                  "lng":-73.7112118
+               },
+               "place_type":[
+                  "Horticulture"
+               ],
+               "productCategories":[
+                  6633,
+                  6762,
+                  499894,
+                  536,
+                  703,
+                  2962,
+                  6547
+               ],
+               "category":"Fleurs, jardins et animaux",
+               "name":"O'Kiwi",
+               "description":"Entreprise spécialisée en développement, production et commercialisation de plants de kiwis miniatures adaptés à nos climats nordiques.",
+               "type":"Ecommerce seulement",
+               "website":"https://okiwi.ca/",
+               "region":"Lanaudière",
+               "slug":"/commerce/o-39-kiwi",
+               "hqCity":"Rawdon",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/o-39-kiwi.jpg",
+               "updated_at":1643742881,
+               "orgName":"O'Kiwi",
+               "objectID":"iw0038411",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Horticulture",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"O'Kiwi",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Entreprise spécialisée en développement, production et commercialisation de plants de kiwis miniatures adaptés à nos climats nordiques.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Ecommerce seulement",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Lanaudière",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"O'Kiwi",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.5951509,
+                  "lng":-73.5896497
+               },
+               "place_type":[
+                  "Décoration",
+                  "Galerie d'art"
+               ],
+               "productCategories":[
+                  8,
+                  9,
+                  16,
+                  3032,
+                  4454,
+                  6049,
+                  505287,
+                  39,
+                  4313,
+                  503724,
+                  961,
+                  166,
+                  7530,
+                  5710,
+                  100,
+                  5714,
+                  956,
+                  569,
+                  5650,
+                  108,
+                  580,
+                  598,
+                  500044,
+                  177,
+                  4054,
+                  639,
+                  696,
+                  599
+               ],
+               "category":"Arts et culture",
+               "name":"ÖMiserany/Atelier_ÖMiserany",
+               "description":"ÖMISERANY  Produits et services artistiques : 3 VOLETS VOLET ARTISTE• DÉCO • COACH\n\nVOLET ÖMISERANY® ARTISTE Manon Miserany© 1966-\nLIEUX ÖM_GALLERY ÖMISERANY : Expositions, diffusion SERVICES ÖM_LOCATION cueillette \nVOLET SERVICE ET PRODUITS ÖMISERANY®Déco  \nÖM_REPRO CRéATRICES Consultante conseil arts & Deco\nVOLET SERVICE ÖMiserany®COACH\nÖM_STYLISTE /ÖM_ORGANISATION  : Services conseilles, beauté, déco, rangement et organisation etc.\nÖM_ATELIER/ÖM_RECREATIF : art et déco Services d’ateliers artistiques, conférence, \npeinture en direct pour évènements culturel, école, corporation ou particulier\n\n\n#ÖM_Repro #ÖMISERANY®DÉCO #ManonMiserany© \nhttps://omiserany.com\nhttps://omiserany.com/deco\n\nÖM_REPRO PRODUITS VENTE EN LIGNE BOUTIQUE REDBUBBLE \nÖM_REPRO ÖMISERANY®DÉCO/ OMISERANY.COM\nhttps://www.redbubble.com/fr/people/omiserany/shop\nhttps://omiserany.com\nhttps://omiserany.com/om_repro",
+               "type":"Physique et ecommerce",
+               "website":"https://omiserany.com/",
+               "region":"Montréal",
+               "slug":"/commerce/omiserany-atelier-omiserany",
+               "locality":"Montréal",
+               "products":[
+                  8,
+                  9,
+                  16,
+                  3032,
+                  4454,
+                  6049,
+                  505287,
+                  39,
+                  500044,
+                  4313,
+                  503724,
+                  961,
+                  166,
+                  7530,
+                  5650
+               ],
+               "hqCity":"Montréal",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/omiserany-atelier-omiserany.jpg",
+               "updated_at":1643742674,
+               "orgName":"ÖMiserany/Atelier_ÖMiserany",
+               "objectID":"5eb07d20c54726000702ab18",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Décoration",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Galerie d'art",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"ÖMiserany/Atelier_ÖMiserany",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"ÖMISERANY  Produits et services artistiques : 3 VOLETS VOLET ARTISTE• DÉCO • COACH\n\nVOLET ÖMISERANY® ARTISTE Manon Miserany© 1966-\nLIEUX ÖM_GALLERY ÖMISERANY : Expositions, diffusion SERVICES ÖM_LOCATION cueillette \nVOLET SERVICE ET PRODUITS ÖMISERANY®Déco  \nÖM_REPRO CRéATRICES Consultante conseil arts & Deco\nVOLET SERVICE ÖMiserany®COACH\nÖM_STYLISTE /ÖM_ORGANISATION  : Services conseilles, beauté, déco, rangement et organisation etc.\nÖM_ATELIER/ÖM_RECREATIF : art et déco Services d’ateliers artistiques, conférence, \npeinture en direct pour évènements culturel, école, corporation ou particulier\n\n\n#ÖM_Repro #ÖMISERANY®DÉCO #ManonMiserany© \nhttps://omiserany.com\nhttps://omiserany.com/deco\n\nÖM_REPRO PRODUITS VENTE EN LIGNE BOUTIQUE REDBUBBLE \nÖM_REPRO ÖMISERANY®DÉCO/ OMISERANY.COM\nhttps://www.redbubble.com/fr/people/omiserany/shop\nhttps://omiserany.com\nhttps://omiserany.com/om_repro",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"ÖMiserany/Atelier_ÖMiserany",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "place_type":[
+                  "Produits pour la maison",
+                  "Savonnerie, cosmétiques, chandelles, produits pour le corps"
+               ],
+               "productCategories":[
+                  2754,
+                  3208,
+                  4975,
+                  2503,
+                  582,
+                  2747,
+                  7462,
+                  4976,
+                  4981,
+                  2441
+               ],
+               "category":"Santé et beauté",
+               "name":"Oli & Ely",
+               "description":"Des produits de maison et de bien-être que vous pouvez utiliser en toute confiance - sans ingrédients toxiques et éco-responsables. Nos produits de qualité sont fabriqués au Québec avec soin. Nettoyants écologiques - Bougies de soya - Savons - Zéro déchet",
+               "type":"Ecommerce seulement",
+               "website":"https://oliely.ca/fr/",
+               "slug":"/commerce/oli-ely",
+               "acceptanceMessage":"Merci de votre réinscription!",
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/oli-ely.jpg",
+               "updated_at":1643739602,
+               "orgName":"Oli & Ely",
+               "objectID":"602ae9112de287000a6b1c1d",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Produits pour la maison",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Savonnerie, cosmétiques, chandelles, produits pour le corps",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Oli & Ely",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Des produits de maison et de bien-être que vous pouvez utiliser en toute confiance - sans ingrédients toxiques et éco-responsables. Nos produits de qualité sont fabriqués au Québec avec soin. Nettoyants écologiques - Bougies de soya - Savons - Zéro déchet",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Ecommerce seulement",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Oli & Ely",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.5261331,
+                  "lng":-73.4878051
+               },
+               "place_type":[
+                  "Autres",
+                  "Ordinateurs"
+               ],
+               "productCategories":[
+                  356
+               ],
+               "category":"Autres",
+               "name":"Recyclage Mirage",
+               "description":"Vente de cartouche compatible d'imprimante laser et jet d'encre\nMoitié du prix d'une cartouche originale\nLivraison 24 hrs\nBoutique en ligne",
+               "type":"Physique et ecommerce",
+               "website":"https://recyclagemirage.net/",
+               "region":"Montérégie",
+               "hqCity":"Longueuil",
+               "locality":"Longueuil",
+               "slug":"/commerce/recyclage-mirage-603f9ccfa8eddf000b93e78b",
+               "isOpen":1,
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/recyclage-mirage-603f9ccfa8eddf000b93e78b.jpg",
+               "updated_at":1643739209,
+               "orgName":"Recyclage Mirage",
+               "objectID":"603f9ccfa8eddf000b93e78b",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Autres",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Ordinateurs",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Recyclage Mirage",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Vente de cartouche compatible d'imprimante laser et jet d'encre\nMoitié du prix d'une cartouche originale\nLivraison 24 hrs\nBoutique en ligne",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montérégie",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Longueuil",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Recyclage Mirage",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "place_type":[
+                  "Chaussures et sacs à main",
+                  "Vêtements pour enfants",
+                  "Vêtements pour femmes",
+                  "Vêtements pour hommes"
+               ],
+               "category":"Mode et vêtements",
+               "name":"Friperie Danaté",
+               "description":"Friperie en ligne, vente de vêtements et accessoires usagés à moindre coût.\nVous pouvez également faire don de ce qui ne vous fait plus ou ce que vous ne portez plus, si toutefois ces vêtements sont dans un bon état pour son futur propriétaire. De cette façon vous aussi participez à ce mode de vie.",
+               "type":"Ecommerce seulement",
+               "website":"https://friperiedanate.com/",
+               "hqCity":"Saint-Jean-sur-Richelieu",
+               "slug":"/commerce/friperie-danate",
+               "hasProducts":1,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/friperie-danate.jpg",
+               "updated_at":1643730512,
+               "orgName":"Friperie Danaté",
+               "objectID":"60d61e4e61fe83000a42191a",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Chaussures et sacs à main",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Vêtements pour enfants",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Vêtements pour femmes",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     },
+                     {
+                        "value":"Vêtements pour hommes",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Friperie Danaté",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"Friperie en ligne, vente de vêtements et accessoires usagés à moindre coût.\nVous pouvez également faire don de ce qui ne vous fait plus ou ce que vous ne portez plus, si toutefois ces vêtements sont dans un bon état pour son futur propriétaire. De cette façon vous aussi participez à ce mode de vie.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Ecommerce seulement",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Friperie Danaté",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.3363889,
+                  "lng":-73.26861099999999
+               },
+               "place_type":[
+                  "Restaurant"
+               ],
+               "category":"Restauration",
+               "name":"Rôtisserie Scores (Saint-Jean-sur-Richelieu)",
+               "description":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+               "type":"Physique et ecommerce",
+               "website":"https://www.scores.ca/rotisserie-scores-saint-jean-sur-richelieu",
+               "slug":"/commerce/rotisserie-scores-saint-jean-sur-richelieu",
+               "locality":"Saint-Jean-sur-Richelieu",
+               "region":"Montérégie",
+               "restaurant_status":"Ouvert",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/rotisserie-scores-saint-jean-sur-richelieu.jpg",
+               "updated_at":1643730310,
+               "orgName":"Rotisserie Scores Poulet et Cote levees",
+               "objectID":"5f08871e002b6300074a140c",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Restaurant",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Rôtisserie Scores (Saint-Jean-sur-Richelieu)",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Saint-Jean-sur-Richelieu",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montérégie",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Rotisserie Scores Poulet et Cote levees",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.64766239999999,
+                  "lng":-72.95205059999999
+               },
+               "place_type":[
+                  "Restaurant"
+               ],
+               "category":"Restauration",
+               "name":"Rôtisserie Scores (Saint-Hyacinthe)",
+               "description":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+               "type":"Physique et ecommerce",
+               "website":"https://www.scores.ca/rotisserie-scores-saint-hyacinthe",
+               "slug":"/commerce/rotisserie-scores-saint-hyacinthe",
+               "locality":"Saint-Hyacinthe",
+               "region":"Montérégie",
+               "restaurant_status":"Ouvert",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/rotisserie-scores-saint-hyacinthe.jpg",
+               "updated_at":1643730291,
+               "orgName":"Rotisserie Scores Poulet et Cote levees",
+               "objectID":"5f08871e002b6300074a1412",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Restaurant",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Rôtisserie Scores (Saint-Hyacinthe)",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Saint-Hyacinthe",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montérégie",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Rotisserie Scores Poulet et Cote levees",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.392477,
+                  "lng":-73.586473
+               },
+               "place_type":[
+                  "Restaurant"
+               ],
+               "category":"Restauration",
+               "name":"Rôtisserie Scores (St-Constant)",
+               "description":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+               "type":"Physique et ecommerce",
+               "website":"https://www.scores.ca/rotisserie-scores-saint-constant",
+               "slug":"/commerce/rotisserie-scores-st-constant",
+               "locality":"Saint-Constant",
+               "region":"Montérégie",
+               "restaurant_status":"Ouvert",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/rotisserie-scores-st-constant.jpg",
+               "updated_at":1643730239,
+               "orgName":"Rotisserie Scores Poulet et Cote levees",
+               "objectID":"5f08871e002b6300074a13f6",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Restaurant",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Rôtisserie Scores (St-Constant)",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Saint-Constant",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montérégie",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Rotisserie Scores Poulet et Cote levees",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.4316667,
+                  "lng":-73.6311111
+               },
+               "place_type":[
+                  "Restaurant"
+               ],
+               "category":"Restauration",
+               "name":"Rôtisserie Scores (LaSalle)",
+               "description":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+               "type":"Physique et ecommerce",
+               "website":"https://www.scores.ca/rotisserie-scores-lasalle",
+               "slug":"/commerce/rotisserie-scores-lasalle",
+               "locality":"Montréal",
+               "region":"Montréal",
+               "restaurant_status":"Ouvert",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/rotisserie-scores-lasalle.jpg",
+               "updated_at":1643730207,
+               "orgName":"Rotisserie Scores Poulet et Cote levees",
+               "objectID":"5f08871e002b6300074a13ea",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Restaurant",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Rôtisserie Scores (LaSalle)",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Rotisserie Scores Poulet et Cote levees",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            },
+            {
+               "_geoloc":{
+                  "lat":45.5941731,
+                  "lng":-73.5738446
+               },
+               "place_type":[
+                  "Restaurant"
+               ],
+               "category":"Restauration",
+               "name":"Rôtisserie Scores (Jean-Talon)",
+               "description":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+               "type":"Physique et ecommerce",
+               "website":"https://www.scores.ca/rotisserie-scores-jean-talon",
+               "slug":"/commerce/rotisserie-scores-jean-talon",
+               "locality":"Montréal",
+               "region":"Montréal",
+               "restaurant_status":"Ouvert",
+               "isOpen":1,
+               "hasProducts":0,
+               "hasImage":1,
+               "image":"https://storage.googleapis.com/lepanierbleu-user-content/images/commerce/rotisserie-scores-jean-talon.jpg",
+               "updated_at":1643730191,
+               "orgName":"Rotisserie Scores Poulet et Cote levees",
+               "objectID":"5f08871e002b6300074a13ee",
+               "_highlightResult":{
+                  "place_type":[
+                     {
+                        "value":"Restaurant",
+                        "matchLevel":"none",
+                        "matchedWords":[
+                           
+                        ]
+                     }
+                  ],
+                  "name":{
+                     "value":"Rôtisserie Scores (Jean-Talon)",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "description":{
+                     "value":"La première Rôtisserie Scores, réputée pour son fameux poulet rôti et ses délicieuses côtes levées, a ouvert ses portes à Montréal en 1995. Notre réseau de franchisés compte maintenant plus d'une quarantaine de Rôtisseries au Québec et en Ontario.  Scores est l’endroit idéal pour déguster un délicieux repas . Que ce soit pour le lunch, une petite fringale ou un repas en soirée, nous adaptons notre service à votre rythme et à vos attentes.  Nous proposons également les services de livraison et de repas à emporter.",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "type":{
+                     "value":"Physique et ecommerce",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "locality":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "region":{
+                     "value":"Montréal",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  },
+                  "orgName":{
+                     "value":"Rotisserie Scores Poulet et Cote levees",
+                     "matchLevel":"none",
+                     "matchedWords":[
+                        
+                     ]
+                  }
+               }
+            }
+         ],
+         "nbHits":24586,
+         "page":1,
+         "nbPages":50,
+         "hitsPerPage":20,
+         "facets":{
+            "type":{
+               "Physique et ecommerce":11234,
+               "Physique":7829,
+               "Ecommerce seulement":4908,
+               "Physical":1
+            },
+            "region":{
+               "Montréal":3909,
+               "Montérégie":3311,
+               "Capitale-Nationale":2048,
+               "Laurentides":1631,
+               "Lanaudière":1288,
+               "Chaudière-Appalaches":1143,
+               "Estrie":1133,
+               "Centre-du-Québec":727,
+               "Saguenay-Lac-Saint-Jean":719,
+               "Laval":684,
+               "Mauricie":658,
+               "Outaouais":608,
+               "Bas-Saint-Laurent":607,
+               "Abitibi-Témiscamingue":391,
+               "Gaspésie-Îles-de-la-Madeleine":286,
+               "Côte-Nord":187,
+               "Nord-du-Québec":49,
+               "Dollard-des-Ormeaux":2,
+               "Jonquière":2,
+               "Saguenay–Lac-Saint-Jean":2,
+               "St-Gabriel-de-Brandon":2,
+               "Gaspésie–Îles-de-la-Madeleine":1,
+               "Latuque":1,
+               "N.-Dame-du-Bon-Conseil":1,
+               "Sallaberry-de-Valleyfield":1,
+               "St-Ambroise":1,
+               "St-Anicet":1,
+               "St-Augustin-de-Desmaures":1,
+               "St-Charles Borromée":1,
+               "St-Célestin":1
+            },
+            "category":{
+               "Autres":5291,
+               "Mode et vêtements":3219,
+               "Alimentation générale":2198,
+               "Santé et beauté":2093,
+               "Alimentation spécialisée":1954,
+               "Restauration":1542,
+               "Arts et culture":1472,
+               "Aliments naturels":1404,
+               "UNKNOWN":1354,
+               "Sports et loisirs":1031,
+               "Fleurs, jardins et animaux":879,
+               "Quincaillerie":745,
+               "Boissons":560,
+               "Hébergement":268,
+               "Magasins autres":112
+            },
+            "hasProducts":{
+               "0":20662,
+               "1":3460
+            }
+         },
+         "facets_stats":{
+            "hasProducts":{
+               "min":0,
+               "max":1,
+               "avg":0,
+               "sum":3460
+            }
+         },
+         "exhaustiveFacetsCount":true,
+         "exhaustiveNbHits":true,
+         "exhaustiveTypo":true,
+         "query":"",
+         "params":"query=&highlightPreTag=__ais-highlight__&highlightPostTag=__%2Fais-highlight__&maxValuesPerFacet=30&page=1&facets=%5B%22type%22%2C%22hasProducts%22%2C%22region%22%2C%22category%22%5D&tagFilters=",
+         "index":"prod_lpb2",
+         "renderingContent":{
+            
+         },
+         "processingTimeMS":2
+      }
+   ]
+}
